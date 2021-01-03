@@ -1,8 +1,10 @@
-# batch-Convert-Sandboxie-RegHive-to-reg-file
+# Convert-Sandboxie-RegHive-to-reg-file
 using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) file on Windows XP/7/10.
 
 "reg.exe" is system file.
+
 "binmay.exe" is from here: http://theoven.org/index.php?topic=2769.0
+
 
 
 
@@ -16,7 +18,9 @@ using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) fi
 
 
 
+
 original post at china kafan forum(cn version):
+
 https://bbs.kafan.cn/thread-2192026-1-1.html
 
 如果你想要中文版请到上面这个卡饭论坛获取。
