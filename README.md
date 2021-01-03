@@ -12,3 +12,4 @@ using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) fi
 original post at china kafan forum(cn version):
 https://bbs.kafan.cn/thread-2192026-1-1.html
 如果你想要中文版请到上面这个卡饭论坛获取。
+
