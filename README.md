@@ -5,13 +5,13 @@ using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) fi
 
 "binmay.exe" is from here: http://theoven.org/index.php?topic=2769.0
 
-================================================================================================================
+=========================================================================
 
 Download 1: [Releases](https://github.com/user336598776/Convert-Sandboxie-RegHive-to-reg-file/releases)
 
 Download 2: https://www.mediafire.com/file/421u6503ei65v3i
 
-================================================================================================================
+=========================================================================
 
 [Usage]
 
@@ -21,7 +21,7 @@ Download 2: https://www.mediafire.com/file/421u6503ei65v3i
 
 3."RegHive_reg.txt" text file created(saved).
 
-================================================================================================================
+=========================================================================
 
 original post at china kafan forum(cn version):
 
