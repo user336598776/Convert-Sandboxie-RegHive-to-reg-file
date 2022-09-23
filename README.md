@@ -1,5 +1,5 @@
 # Convert Sandboxie RegHive to reg file
-using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) file on Windows XP/7/10.
+using reg.exe and binmay.exe to convert Sandboxie "RegHive" file to reg(text) file on Windows XP/7/10/11.
 
 "reg.exe" is system file.
 
